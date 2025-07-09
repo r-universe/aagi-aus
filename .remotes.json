@@ -2,6 +2,12 @@
   {
     "package": "AAGIPalettes",
     "url": "https://github.com/AAGI-AUS/AAGIPalettes",
+    "via": ["AAGIThemes"],
+    "from": "AAGIThemes"
+  },
+  {
+    "package": "AAGIPalettes",
+    "url": "https://github.com/AAGI-AUS/AAGIPalettes",
     "via": ["rippo", "AAGIThemes"],
     "from": "rippo"
   },
