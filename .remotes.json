@@ -1,0 +1,14 @@
+[
+  {
+    "package": "AAGIPalettes",
+    "url": "https://github.com/AAGI-AUS/AAGIPalettes",
+    "via": ["rippo", "AAGIThemes"],
+    "from": "rippo"
+  },
+  {
+    "package": "AAGIThemes",
+    "url": "https://github.com/AAGI-AUS/AAGIThemes",
+    "via": ["rippo"],
+    "from": "rippo"
+  }
+]
