@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/aagi-aus/aagi-aus.r-universe.dev
 	branch = HEAD
+[submodule "AAGIPalettes"]
+	path = AAGIPalettes
+	url = https://github.com/AAGI-AUS/AAGIPalettes
+[submodule "AAGITemplates"]
+	path = AAGITemplates
+	url = https://github.com/AAGI-AUS/AAGITemplates
+[submodule "AAGIThemes"]
+	path = AAGIThemes
+	url = https://github.com/AAGI-AUS/AAGIThemes
+[submodule "InPlotSampling"]
+	path = InPlotSampling
+	url = https://github.com/AAGI-AUS/InPlotSampling
+[submodule "nert"]
+	path = nert
+	url = https://github.com/AAGI-AUS/nert
+[submodule "rippo"]
+	path = rippo
+	url = https://github.com/AAGI-AUS/rippo
