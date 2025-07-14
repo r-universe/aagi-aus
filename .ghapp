@@ -1,0 +1,10 @@
+{
+  "id": 75770670,
+  "created_at": "2025-07-14T08:32:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["aagi-aus.r-universe.dev"]
+}
