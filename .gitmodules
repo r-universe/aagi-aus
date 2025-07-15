@@ -11,6 +11,9 @@
 [submodule "AAGIThemes"]
 	path = AAGIThemes
 	url = https://github.com/AAGI-AUS/AAGIThemes
+[submodule "CBADASReml"]
+	path = CBADASReml
+	url = https://github.com/AAGI-AUS/CBADASReml
 [submodule "InPlotSampling"]
 	path = InPlotSampling
 	url = https://github.com/AAGI-AUS/InPlotSampling
