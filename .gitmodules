@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/aagi-aus/aagi-aus.r-universe.dev
 	branch = HEAD
+[submodule "AAGI-HTML-Draft"]
+	path = AAGI-HTML-Draft
+	url = https://github.com/AAGI-AUS/AAGI-HTML-Draft
 [submodule "AAGIPalettes"]
 	path = AAGIPalettes
 	url = https://github.com/AAGI-AUS/AAGIPalettes
+[submodule "AAGIQuartoExtra"]
+	path = AAGIQuartoExtra
+	url = https://github.com/AAGI-AUS/AAGIQuartoExtra
 [submodule "AAGITemplates"]
 	path = AAGITemplates
 	url = https://github.com/AAGI-AUS/AAGITemplates
