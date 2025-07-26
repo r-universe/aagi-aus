@@ -23,6 +23,9 @@
 [submodule "InPlotSampling"]
 	path = InPlotSampling
 	url = https://github.com/AAGI-AUS/InPlotSampling
+[submodule "hagis"]
+	path = hagis
+	url = https://github.com/openplantpathology/hagis
 [submodule "nert"]
 	path = nert
 	url = https://github.com/AAGI-AUS/nert
