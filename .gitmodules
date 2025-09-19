@@ -11,6 +11,9 @@
 [submodule "AAGIQuartoExtra"]
 	path = AAGIQuartoExtra
 	url = https://github.com/AAGI-AUS/AAGIQuartoExtra
+[submodule "AAGISurvey"]
+	path = AAGISurvey
+	url = https://github.com/AAGI-AUS/AAGISurvey
 [submodule "AAGITemplates"]
 	path = AAGITemplates
 	url = https://github.com/AAGI-AUS/AAGITemplates
